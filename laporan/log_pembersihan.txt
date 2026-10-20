@@ -1,0 +1,13 @@
+LOG PEMBERSIHAN DATA
+============================================================
+No  Baris   Masalah                                      Perlakuan                     
+------------------------------------------------------------------------------------------
+1   2       Satuan tidak seragam: 'Kilogram'             Diubah menjadi 'kg'           
+2   2       Format tanggal berbeda: '01/01/2025'         Diubah menjadi '2025-01-01'   
+3   4       Nilai kosong pada kolom jumlah               Baris dibuang                 
+4   5       Satuan tidak seragam: 'KG'                   Diubah menjadi 'kg'           
+5   7       Satuan tidak seragam: 'kilo'                 Diubah menjadi 'kg'           
+6   12      Satuan tidak seragam: 'Kilogram'             Diubah menjadi 'kg'           
+7   19      Baris ganda                                  Baris dibuang                 
+8   20      Satuan tidak seragam: 'Kilogram'             Diubah menjadi 'kg'           
+9   20      Baris ganda                                  Baris dibuang                 

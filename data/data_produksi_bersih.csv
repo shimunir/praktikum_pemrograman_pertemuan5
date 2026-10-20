@@ -1,0 +1,18 @@
+tanggal,liniproduksi,produk,jumlah,satuan,operator
+2025-01-01,Lini A,Produk X,150,kg,Andi
+2025-01-01,Lini A,Produk Y,200,kg,Budi
+2025-01-01,Lini B,Produk X,175,kg,Citra
+2025-01-02,Lini B,Produk Y,210,kg,Dedi
+2025-01-02,Lini B,Produk X,180,kg,Citra
+2025-01-03,Lini A,Produk Y,190,kg,Budi
+2025-01-03,Lini A,Produk X,155,kg,Andi
+2025-01-03,Lini B,Produk Y,220,kg,Dedi
+2025-01-03,Lini B,Produk X,165,kg,Citra
+2025-01-04,Lini A,Produk X,170,kg,Andi
+2025-01-04,Lini A,Produk Y,195,kg,Budi
+2025-01-04,Lini B,Produk X,185,kg,Citra
+2025-01-04,Lini B,Produk Y,205,kg,Dedi
+2025-01-05,Lini A,Produk X,145,kg,Andi
+2025-01-05,Lini A,Produk Y,210,kg,Budi
+2025-01-05,Lini B,Produk X,190,kg,Citra
+2025-01-05,Lini B,Produk Y,215,kg,Dedi
